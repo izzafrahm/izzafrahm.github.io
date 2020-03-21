@@ -1,0 +1,57 @@
+section.Home{
+    background-image: url(SVG/Web\ 1280\ –\ 1.svg);
+    background-attachment: fixed;
+    background-size: ;
+    background-position-y: 0px;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
+
+.carousel-caption {
+    position: absolute;
+    background: rgba(0,0,0,0.8);
+    padding: 15px 10px;
+  }
+
+nav {
+    background: rgba(0, 139, 139, 0.712);
+}
+
+nav a{
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.navlink::after:hover {
+    content: '';
+    display: block;
+    border-bottom: 3px solid rgba(109, 104, 104, 0.8)
+    ;
+}
+
+footer {
+    padding-top: 20px;
+}
+
+#background {
+    pointer-events: none;
+}
+
+@keyframes ping {
+	0% {
+		transform: scale(0.0);
+		opacity: 0.8;
+	}
+	100% {
+		transform: scale(1.2);
+		opacity: 0;
+	}
+}
+
+.navbar-default .navbar-toggle .navbar-toggler-icon {
+    background-color: black;
+}

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1360" height="768" viewBox="0 0 1360 768">
+  <defs>
+    <clipPath id="clip-Web_1280_1">
+      <rect width="1360" height="768"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1280_1" data-name="Web 1280 – 1" clip-path="url(#clip-Web_1280_1)">
+    <rect width="1360" height="768" fill="rgba(222,227,189,0.23)"/>
+    <text id="i" transform="matrix(-1, 0, 0, 1, 171, 313)" font-size="800" font-family="ArialMT, Arial"><tspan x="0" y="724">i</tspan></text>
+    <text id="i-2" data-name="i" transform="translate(603 -180)" font-size="800" font-family="ArialMT, Arial" opacity="0.28"><tspan x="0" y="724">i</tspan></text>
+    <text id="i-3" data-name="i" transform="translate(1224 90)" font-size="800" font-family="ArialMT, Arial"><tspan x="0" y="724">i</tspan></text>
+    <text transform="translate(154 197)" fill="#707070" font-size="20" font-family="FuturaBT-Book, Futura Bk BT"/>    <text id="Hello" transform="translate(91 211)" font-size="120" font-family="Rockwell" opacity="0.12"><tspan x="0" y="113">Hello</tspan></text>
+    <text id="Hello-2" data-name="Hello" transform="translate(111 203)" font-size="120" font-family="Rockwell"><tspan x="0" y="113">Hello</tspan></text>
+    <line id="Line_2" data-name="Line 2" x2="316" transform="translate(82.5 338.5)" fill="none" stroke="#000" stroke-width="8" opacity="0.19"/>
+    <line id="Line_1" data-name="Line 1" x2="316" transform="translate(99.5 328.5)" fill="none" stroke="#000" stroke-width="8"/>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(815 502)" fill="#030303" stroke="rgba(0,0,0,0.65)" stroke-width="1" opacity="0.22">
+      <rect width="307" height="152" stroke="none"/>
+      <rect x="0.5" y="0.5" width="306" height="151" fill="none"/>
+    </g>
+    <text id="i-4" data-name="i" transform="translate(633 -187)" font-size="800" font-family="ArialMT, Arial"><tspan x="0" y="724">i</tspan></text>
+    <text id="i-5" data-name="i" transform="translate(1193 107)" font-size="800" font-family="ArialMT, Arial" opacity="0.28"><tspan x="0" y="724">i</tspan></text>
+    <text id="i-6" data-name="i" transform="translate(-37 339)" font-size="800" font-family="ArialMT, Arial" opacity="0.28"><tspan x="0" y="724">i</tspan></text>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(834 488)" fill="#fff" stroke="rgba(0,0,0,0.65)" stroke-width="1">
+      <rect width="307" height="152" stroke="none"/>
+      <rect x="0.5" y="0.5" width="306" height="151" fill="none"/>
+    </g>
+    <text id="Welcome_to_my_website_feel_free_to_have_a_look._Have_a_seat_and_enjoy_" data-name="Welcome to my website,
+feel free to have a look.
+Have a seat, and enjoy!
+" transform="translate(877 551)" font-size="20" font-family="AgencyFB-Bold, Agency FB" font-weight="700" opacity="0.23"><tspan x="0" y="0">Welcome to my website,</tspan><tspan x="0" y="24">feel free to have a look.</tspan><tspan x="0" y="48">Have a seat, and enjoy!</tspan><tspan x="0" y="72"></tspan></text>
+    <text id="Welcome_to_my_website_feel_free_to_have_a_look._Have_a_seat_and_enjoy_2" data-name="Welcome to my website,
+feel free to have a look.
+Have a seat and enjoy!
+" transform="translate(893 540)" font-size="20" font-family="AgencyFB-Bold, Agency FB" font-weight="700"><tspan x="0" y="0">Welcome to my website,</tspan><tspan x="0" y="24">feel free to have a look.</tspan><tspan x="0" y="48">Have a seat and enjoy!</tspan><tspan x="0" y="72"></tspan></text>
+    <text id="_" data-name="&quot;" transform="translate(864 517)" font-size="30" font-family="ArialMT, Arial"><tspan x="0" y="27">&quot;</tspan></text>
+    <text id="_2" data-name="&quot;" transform="translate(1050 563)" font-size="30" font-family="ArialMT, Arial"><tspan x="0" y="27">&quot;</tspan></text>
+    <text id="_3" data-name="&quot;" transform="translate(858 521)" font-size="30" font-family="ArialMT, Arial" opacity="0.35"><tspan x="0" y="27">&quot;</tspan></text>
+    <text id="_4" data-name="&quot;" transform="translate(1040 580)" font-size="30" font-family="ArialMT, Arial" opacity="0.35"><tspan x="0" y="27">&quot;</tspan></text>
+    <text id="i-7" data-name="i" transform="translate(531) rotate(90)" font-size="800" font-family="ArialMT, Arial" opacity="0.35"><tspan x="0" y="724">i</tspan></text>
+    <text id="i-8" data-name="i" transform="translate(558 40) rotate(90)" font-size="800" font-family="ArialMT, Arial"><tspan x="0" y="724">i</tspan></text>
+  </g>
+</svg>
